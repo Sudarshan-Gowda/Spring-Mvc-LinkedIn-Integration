@@ -24,8 +24,8 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 public class LoginController {
 
 	public static String redirect_url = "/linkedin/result";
-	public static String client_id = "";//change accordingly
-	public static String client_secret = "";//change accordingly
+	public static String client_id = "xxxx";//change accordingly
+	public static String client_secret = "xxxx";//change accordingly
 
 	final static String JSON_REG_DATA = "JSON_REG_DATA";
 
