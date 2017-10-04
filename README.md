@@ -2,9 +2,8 @@
 
 # Steps to integrate your Application with LinkedIn 
 
-`Step 1` : Dowmload this repository & do maven import.                                                                                    
-`Step 2` : Give ur `client id` & `client secret` (which is created in developer side) in LoginController.java file.
-`Step3 ` : Add the server and Run this Application. Once the project is successfully deployed you will be redirected to login page with               Linked-in Icon.                                                                                                               `Step4 ` : Once you Clicked on the Linked in Icon, you will be redirected to Linked in Login Page. Enter your linked in account credential
+`Step 1` : Dowmload this repository & do maven import.                                                                                   `Step 2` : Give ur `client id` & `client secret` (which is created in developer side) in LoginController.java file.                   
+`Step3 ` : Add the server and Run this Application. Once the project is successfully deployed you will be redirected to login page with               Linked-in Icon.                                                                                                            `Step4 ` : Once you Clicked on the Linked in Icon, you will be redirected to Linked in Login Page. Enter your linked in account credential
           or any linked in account credential. If the credential is valid you will be redicted to welcome page with logged in User details
           like `First Name` , `Last Name`, `Email Address`, `Place` etc..                                                           
 
