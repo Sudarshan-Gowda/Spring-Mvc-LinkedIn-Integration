@@ -2,10 +2,8 @@
 
 # Steps to integrate your Application with LinkedIn 
 
-`Step 1` : Dowmload this repository & do maven import.                                                                                   `Step 2` : Give ur `client id` & `client secret` (which is created in developer side) in LoginController.java file.                   
-`Step3 ` : Add the server and Run this Application. Once the project is successfully deployed you will be redirected to login page with               Linked-in Icon.                                                                                                            `Step4 ` : Once you Clicked on the Linked in Icon, you will be redirected to Linked in Login Page. Enter your linked in account credential
-          or any linked in account credential. If the credential is valid you will be redicted to welcome page with logged in User details
-          like `First Name` , `Last Name`, `Email Address`, `Place` etc..                                                           
+`Step 1` : Dowmload this repository & do maven import.   <br>                                                                           `Step 2` : Give ur `client id` & `client secret` (which is created in developer side) in LoginController.java file.   <br>               `Step3 ` : Add the server and Run this Application. Once the project is successfully deployed you will be redirected to login page with Linked-in Icon.   <br>                                                                                                         
+`Step4 ` : Once you Clicked on the Linked in Icon, you will be redirected to Linked in Login Page. Enter your linked in account credential or any linked in account credential. If the credential is valid you will be redicted to welcome page with logged in User details like `First Name` , `Last Name`, `Email Address`, `Place` etc..                                                           
 
 # Steps to create Credential(tokens) in Linked-In developer Site.
 
@@ -26,8 +24,5 @@
  Eclipse - Mars                                                                                                                        
  Sevrver - Wildfly 10                                                                                                                   
 
-If you people get any issues regarding this repository means, feel free to comment, I will help you guys to run this repository sucessfully.                                                                                                                      
-
-Thank u guys..                                                                                                                      
-Have a great day.   
+<img src="https://github.com/Sudarshan-Gowda/Spring-Mvc-LinkedIn-Integration/blob/master/docs/picture1.png"/>
 
